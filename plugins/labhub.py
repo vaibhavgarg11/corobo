@@ -28,7 +28,7 @@ class LabHub(BotPlugin):
                      'also be there for you at all times to help you with '
                      'actual problems. :)',
         'developers': ' Wow @{}, you are a part of developers team now! :tada: '
-                      'Welcome to ourcommunity!',
+                      'Welcome to our community!',
         'maintainers': ' @{} you seem to be awesome! You are now a maintainer! '
                        ':tada: Please go through '
                        'https://github.com/coala/coala/wiki/Membership'
